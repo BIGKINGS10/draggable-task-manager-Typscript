@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Draggable Task Manager Using React Beautiful DnD and TypeScript
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
